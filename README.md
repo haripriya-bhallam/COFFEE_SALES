@@ -1,7 +1,4 @@
 # Coffee Sales Analysis
-# Author: Haripriya Bhallam
-# Date: 2025
-# Objective: Explore customer behavior and forecast coffee sales using a data science.
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
